@@ -5,6 +5,10 @@
 		},
 		{
 			"path": "hello_nodejs"
+		},
+		{
+			"name": "DO101-apps",
+			"path": "DO101-apps"
 		}
 	]
 }
